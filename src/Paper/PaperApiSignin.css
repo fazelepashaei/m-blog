@@ -1,0 +1,78 @@
+.loginstyle{
+    display: flex;
+    flex-direction: column;
+    width: 42vw;
+    height: 36vh;
+    background-color: #782564;
+    /* padding-left: 2vh; */
+    margin-left: 2vh;
+   
+}
+.buttonlogin{
+    width:21vw;
+    height:5vh;
+    border-radius:20px;
+    position: relative;
+    background-color: #DFB2D5;
+    transition: all 0.3s;
+    margin-top: 1vh;
+    margin-left: 5vh;
+    font-family: "GoldmanBold";
+    font-size:16px;
+    font-weight: bold;
+}
+.se-loginstyle{
+    display: flex;
+    flex-direction:"row";
+     padding-left: 5vh;
+     
+}
+.iconst{
+    width:5vw;
+    height:5vh;
+    color: #DFB2D5;
+    
+}
+.iconstyle{
+    display: flex;
+    flex-direction:"row";
+    align-self: center;
+    margin-top: 3vw;
+}
+.signuppart{
+    background-color: #782564;
+    background-position:"center";
+    background-size: cover;
+    width:28vw;
+    height:59vh;
+    margin-left: 2vh;
+    margin-top: 1vh;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px
+}
+.backgroundsignincontainer{
+    margin: 100px;
+    background-color: #DFB2D5;
+    width:74vw;
+    height:62vh;
+    border-radius:10;
+    margin-bottom: 1vh;
+    height: "62vh";
+    border-radius: 10;
+    margin-bottom:1vh;
+    padding:2vh;
+    flex-direction: row;
+    display: flex;
+    padding:"2vh"   
+}
+.backgroundsigninpart1{
+    flex:4;
+    background-color: #782564;
+    width:42vw;
+    height:22vh;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    margin-top:1vh;
+    margin-left:2vh;
+    padding-top:1vh ;
+}

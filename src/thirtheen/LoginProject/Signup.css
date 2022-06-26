@@ -1,0 +1,28 @@
+.third-container-signup{
+    width:20vw;
+    height:4vh;
+    border-radius:20px;
+    position: relative;
+    background-color: #DFB2D5;
+    transition: all 0.3s;
+    margin-bottom: 1vh;
+    margin-left: 6vh;
+    font-family: arial;
+}
+
+.first-container-signup{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .usernamesignup{
+        width:3vw;
+        height:.5vh
+     }
+     .second-container-signup{
+        display: flex;
+        flex-direction: row;
+        margin-left:3vw;
+        margin-bottom: 5vh;
+     }
+   

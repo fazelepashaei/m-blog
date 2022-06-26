@@ -1,0 +1,170 @@
+.first-container-dashboard{
+          width: 100vw;
+          height: 100vh;
+          background-position: center;
+          background-size: cover;
+          background-repeat: no-repeat;
+          
+}
+.dashboare-container{
+    background-image: url("/public/back2.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100vw;
+    /* height:400px; */
+    }
+.second-container-dashboard{
+    display: flex;
+    flex-direction: row;
+    
+}
+.pic{
+    display: flex;
+    flex-direction: column;
+    margin-left: 1vh;
+}
+
+.mypic{
+    display: flex;
+    flex-direction: row;
+    background-color: #782564;
+    margin-top: 1vh;
+    padding-top: 1vh; 
+    border-radius: 20vh;
+    width: 16vw;
+    height:26vh;
+    /* padding-right: 1vw; */
+}
+.mypic2{
+    display: flex;
+    flex-direction: row;
+    background-color: #DFB2D5;
+    margin-left: 5vh;
+    /* padding-right: 0vw; */
+    border-radius: 20vh;
+    width: 16vw;
+    height:26vh;
+    /* padding-right: 1vw; */
+}
+.picbutton{
+    display: flex;
+    flex-direction: column;
+    margin-left: 6vh;
+}
+.buttondashboard{
+    width:5vw;
+    height:5vh;
+    border-radius:20px;
+    position: relative;
+    background-color: #DFB2D5;
+    transition: all 0.3s;
+    margin-top: 1vh;
+    margin-left: 1vh;
+    font-family: "GoldmanBold";
+    font-size:16px;
+    font-weight: bold;
+}
+.bioe{
+    display: flex;
+    flex-direction: row;
+    background-color: #782564;
+    margin-top: 4vh;
+    padding-top: 1vh;
+    border-radius: 5vh;
+    width: 300px;
+    height:100px;   
+
+}
+.bio2{
+    display: flex;
+    flex-direction: row;
+    background-color: #DFB2D5;
+    margin-top: 1.5vh;
+    padding-top: 1vh;
+    margin-right: -12vh;
+    border-radius: 5vh;
+    margin-left: 4vh;
+    width: 15vw;
+    height:20vh; 
+
+}
+.profile{
+    margin-left: 1vh;
+}
+.coulmn2{
+    display: flex;
+    flex-direction: column;
+    margin-left: 25vh;
+}
+.display{
+    display: flex;
+    flex-direction: row;
+    background-color: #782564;
+    margin-top: 4vh;
+    padding-top: 1vh;
+    margin-left: 40vh;
+    border-radius: 5vh;
+    width: 60vw;
+    height:30vh;   
+    margin-top:10vh;
+      
+}
+.display2{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: #DFB2D5;
+    margin-top: 1.5vh;
+    padding-top: 1vh;
+    margin-right: -28vh;
+    border-radius: 5vh;
+    margin-left: 4vh;
+    width: 62vw;
+    height:30vh; 
+    overflow: scroll;
+   
+      
+}
+.display3{
+    display: flex;
+    flex-direction: column;
+    justify-content:space-between;
+    background-color: #DFB2D5;
+    margin-top: 1.5vh;
+    padding-top: 1vh;
+    /* margin-left: 270px; */
+    /* margin-right:30px;
+    position: absolute; */
+    /* padding-left:20vh; */
+    /* margin-right: -28vh; */
+    border-radius: 2vh;
+    margin-left: 4vh;
+    width: 65vw;
+    height:20vh; 
+    overflow: scroll;}
+.buttonuser{
+    width:8vw;
+    height:5vh;
+    border-radius:20px;
+    position: relative;
+    background-color: #DFB2D5;
+    transition: all 0.3s;
+    margin-top: 1vh;
+    margin-left: 1vh;
+    font-family: "GoldmanBold";
+    font-size:16px;
+    font-weight: bold;
+}
+.buttonline{
+    display: flex;
+    flex-direction: row;
+    margin-top: 7vh;
+    align-self: center;
+}
+.imgavatar{
+  border-radius: 100px;
+  width: 16vw;
+  height:26vh;
+  
+}
