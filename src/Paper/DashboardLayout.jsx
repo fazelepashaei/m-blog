@@ -4,6 +4,7 @@ import { Link, Outlet, useNavigate } from "react-router-dom";
 import React, {useEffect, useState} from 'react';
 
 import Cookies from "universal-cookie";
+
 const cookie = new Cookies();
 
 const DashboardLayout = () => {
